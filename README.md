@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0633-sum-of-square-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
