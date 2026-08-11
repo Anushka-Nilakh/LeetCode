@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0009-palindrome-number) |
 | [0633-sum-of-square-numbers](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
