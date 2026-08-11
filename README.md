@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0414-third-maximum-number](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [3866-first-unique-even-element](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0175-combine-two-tables) |
+## Hash Table
+|  |
+| ------- |
+| [3866-first-unique-even-element](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3866-first-unique-even-element) |
+## Counting
+|  |
+| ------- |
+| [3866-first-unique-even-element](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3866-first-unique-even-element) |
 <!---LeetCode Topics End-->
