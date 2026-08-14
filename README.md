@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0633-sum-of-square-numbers](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Anushka-Nilakh/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0013-roman-to-integer) |
 | [3866-first-unique-even-element](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Counting
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Tree
