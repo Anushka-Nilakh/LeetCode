@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0013-roman-to-integer) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3866-first-unique-even-element](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Counting
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
