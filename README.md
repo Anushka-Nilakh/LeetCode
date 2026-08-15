@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Anushka-Nilakh/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Database
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
