@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0414-third-maximum-number](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3866-first-unique-even-element](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
