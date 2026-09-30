@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [2029-stone-game-ix](https://github.com/Anushka-Nilakh/LeetCode/tree/master/2029-stone-game-ix) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0414-third-maximum-number) |
 ## Math
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0217-contains-duplicate) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3866-first-unique-even-element](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3866-first-unique-even-element) |
