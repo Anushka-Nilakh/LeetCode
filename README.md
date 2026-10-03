@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1089-duplicate-zeros](https://github.com/Anushka-Nilakh/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anushka-Nilakh/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2029-stone-game-ix](https://github.com/Anushka-Nilakh/LeetCode/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anushka-Nilakh/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0189-rotate-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1089-duplicate-zeros](https://github.com/Anushka-Nilakh/LeetCode/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
