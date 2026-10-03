@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0136-single-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0189-rotate-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
