@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Anushka-Nilakh/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1089-duplicate-zeros](https://github.com/Anushka-Nilakh/LeetCode/tree/master/1089-duplicate-zeros) |
